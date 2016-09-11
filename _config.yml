@@ -1,0 +1,200 @@
+
+# Site settings
+
+# NB! Set your site's url, otherwise stuff will break :)
+
+url: "http://lzackx.github.io"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (https://yourusername.github.io/repository-name)
+# and NOT your user repository (https://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#
+# NB! Without this *nothing* will work, because it's used in every path :)
+
+baseurl: /Tanagement
+
+# Google tracking id
+
+google-tracking-id: ""
+
+# Forces https everywhere in your website, except when you serve it locally
+# If you are not hosted on Github Pages, and your host doesn't support https
+# then you should disable it
+
+force-https: False
+
+#############
+# HTML Head #
+#############
+
+lang: "en"
+author: "Zackx"
+title: "Tanagement"
+description: "Tanagement, Time Management. Opinions expressed are mine."
+keywords: "Tanagement, Time Management, Zackx, App"
+favicon: "/img/favicon.ico"
+
+################
+# Header layout #
+################
+
+black-favicon: "/img/favicon.ico"
+
+background-img: "../img/IntroductionBackground.jpg"
+
+##############################
+# Dynamic Text on the Header #
+##############################
+
+dynamic-typing: True
+shuffle: True # Shuffle the lines.
+loop: True
+loop-count: False # Set False for infinite loop, or set any number for finite loop.
+type-speed: 10
+start-delay: 200
+delete-delay: 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Time and tide wait for no man."
+  - text: "Every second counts."
+
+me-img: "/img/AppIcon.png"
+
+##############################
+# Color the browser elements #
+##############################
+color-browser: "#000000"
+apple-status-bar-style: "black"
+
+################
+# Web app mode #
+################
+
+web-app-mode: True
+
+# Icons for Web App mode
+
+icon-36p: "/img/web-app/icon-36p.png"
+icon-48p: "/img/web-app/icon-48p.png"
+icon-72p: "/img/web-app/icon-72p.png"
+icon-96p: "/img/web-app/icon-96p.png"
+icon-144p: "/img/web-app/icon-144p.png"
+icon-192p: "/img/web-app/icon-192p.png"
+
+########
+# Blog #
+########
+
+enable-gesture-navigation: True
+
+post-preview-words: 96
+
+paginate: 5
+
+email-share: True
+fb-share: False
+twitter-share: False
+linkedin-share: False
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
+
+disqus-shortname: "Tanagement"
+
+syntax-highlight: True
+
+############
+# Timeline #
+############
+
+events:
+  - image: "/img/timeline/AppIcon.png"
+    date: "September 2016 - Today"
+    description: "Version 1.0.0"
+  - image: "/img/timeline/Xcode.png"
+    date: "August 2016 - September 2016"
+    description: "Developing"
+
+# First image of the Timeline
+
+timeline-img: "/img/timeline/AppIcon.png"
+
+###########
+# Contact #
+###########
+
+email: "zackx@foxmail.com"
+
+################
+# Author Blurb #
+################
+
+# The author blurb goes underneath blog posts.
+# This works best when your author blurb image has a transparent background, or matches your site background color.
+
+# if the author_blurb is not set, then this feature is skipped
+author_blurb: "Zackx is an awesome person. He is going to be a full stack developer."
+author_blurb_image: "/img/Zackx.png"
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - title: "github"
+    url: "https://github.com/lzackx"
+  - title: "rss"
+    url: "/feed.xml"
+  # - title: "bitcoin"
+  #   url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  # - title: "facebook"
+  #   url: "https://facebook.com/"
+  # - title: "twitter"
+  #   url: "https://twitter.com/"
+
+############
+# 404 page #
+############
+
+404-img: "/img/404.png"
+
+##################
+# GPG on Keybase #
+##################
+
+keybase-username: Zackx
+keybase-in-social: False
+keybase-in-footer: False
+
+################################################################################
+
+# NB! Tread carefully if you want to change the variables below this point!
+
+# Sections shown in the index page
+
+pages_list:
+  About: 'about'
+  News: 'latest-post'
+  Timeline: 'timeline'
+  Contact: 'contact'
+  # Blog: 'latest-post'
+
+# Exclusion list from the generated _site
+
+exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
+
+# Pagination path
+
+paginate_path: "news/page:num/"
+
+# Enable minification SASS
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jemoji

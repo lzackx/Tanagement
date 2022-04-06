@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's New
+title: 版本更新
 include_in_header: true
 ---
 

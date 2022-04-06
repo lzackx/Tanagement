@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Privacy Policy
-include_in_header: false
+title: 隐私政策
+include_in_header: true
 ---
 
 **Last updated**  

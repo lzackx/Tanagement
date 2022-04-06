@@ -1,200 +1,116 @@
+#page title
+page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
-# Site settings
+# App Info
+ios_app_id                                : 1153368735                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : cn                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-# NB! Set your site's url, otherwise stuff will break :)
+appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                           # Enter Google Play Store URL.
 
-url: "http://tanagement.com"
+app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : 生当作蜡烛，燃头至尾，始终光明
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
-baseurl: 
 
-# Google tracking id
 
-google-tracking-id: ""
+# Information About Yourself
+your_name                                 : Tanagement                                
+your_link                                 : https://info.tanagement.com                     
+your_city                                 : GuangZhou                                
+email_address                             : feedback@tanagement.com
+facebook_username                         :                                           
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
+youtube_username                          :
 
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
 
-force-https: False
 
-#############
-# HTML Head #
-#############
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
 
-lang: "en"
-author: "Zackx"
-title: "Tanagement"
-description: "Tanagement, Time Management. Opinions expressed are mine."
-keywords: "Tanagement, Time Management, Zackx, App"
-favicon: "/img/favicon.ico"
+  - title                                 : Stephen R. Covey 高效的时间管理四象限法则
+    description                           : 按照时间管理四象限法则提醒用户轻急缓重事项，让Tanagement告诉你该处理什么。
+    fontawesome_icon_name                 : mobile
+    
+  - title                                 : 随时随地的提醒通知
+    description                           : 自定义提醒通知，规划通知不忘事。
+    fontawesome_icon_name                 : star
 
-################
-# Header layout #
-################
+  - title                                 : 更多功能
+    description                           : 持续迭代，让生活调理分明。
+    fontawesome_icon_name                 : info-circle
 
-black-favicon: "/img/favicon.ico"
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
-background-img: "../img/IntroductionBackground.jpg"
 
-##############################
-# Dynamic Text on the Header #
-##############################
 
-dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
-start-delay: 200
-delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "Time and tide wait for no man."
-  - text: "Every second counts."
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
 
-me-img: "/img/AppIcon.png"
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#66E5E5"
+cover_overlay_transparency                : 0.25
 
-##############################
-# Color the browser elements #
-##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-################
-# Web app mode #
-################
+body_background_color                     : "#ffffff"
 
-web-app-mode: True
+link_color                                : "#66CCFF"
 
-# Icons for Web App mode
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
 
-########
-# Blog #
-########
+feature_icons_foreground_color            : "#66CCFF"
+feature_icons_background_color            : "#e6e6e6"
 
-enable-gesture-navigation: True
+social_icons_foreground_color             : "#66CCFF"
+social_icons_background_color             : "#e6e6e6"
 
-post-preview-words: 96
+footer_text_color                         : "#66CCFF"
 
-paginate: 5
 
-email-share: True
-fb-share: False
-twitter-share: False
-linkedin-share: False
-reddit-share: False
-google-plus-share: False
-tumblr-share: False
-pinterest-share: False
-pocket-share: False
-vkontakte-share: False
 
-disqus-shortname: "Tanagement"
 
-syntax-highlight: True
 
-############
-# Timeline #
-############
 
-events:
-  - image: "/img/timeline/AppIcon.png"
-    date: "September 2016 - Today"
-    description: "Version 1.0.0"
-  - image: "/img/timeline/Xcode.png"
-    date: "August 2016 - September 2016"
-    description: "Developing"
 
-# First image of the Timeline
 
-timeline-img: "/img/timeline/Zackx.png"
 
-###########
-# Contact #
-###########
 
-email: "zackx@foxmail.com"
 
-################
-# Author Blurb #
-################
 
-# The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
 
-# if the author_blurb is not set, then this feature is skipped
-author_blurb: "Zackx is an awesome person. He is going to be a full stack developer."
-author_blurb_image: "/img/Zackx.png"
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
 
-##################
-# Social Buttons #
-##################
-
-social:
-  - title: "github"
-    url: "https://github.com/lzackx"
-  - title: "rss"
-    url: "/feed.xml"
-  # - title: "bitcoin"
-  #   url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  # - title: "facebook"
-  #   url: "https://facebook.com/"
-  # - title: "twitter"
-  #   url: "https://twitter.com/"
-
-############
-# 404 page #
-############
-
-404-img: "/img/404.png"
-
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: Zackx
-keybase-in-social: False
-keybase-in-footer: False
-
-################################################################################
-
-# NB! Tread carefully if you want to change the variables below this point!
-
-# Sections shown in the index page
-
-pages_list:
-  About: 'about'
-  News: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
-  # Blog: 'latest-post'
-
-# Exclusion list from the generated _site
-
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
-
-# Pagination path
-
-paginate_path: "news/page:num/"
-
-# Enable minification SASS
-
+# Set the Sass partials directory, as we're using @imports
 sass:
-  style: compressed
+  style: :compressed # You might prefer to minify using :compressed
 
-gems:
-  - jekyll-paginate
-  - jemoji
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown

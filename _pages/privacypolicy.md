@@ -4,57 +4,379 @@ title: 隐私政策
 include_in_header: true
 ---
 
-**Last updated**  
-August 1 2019
+**最近更新**  
+2022.05.01
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+# Tanagement隐私政策
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Tanagement网站/移动端（“Tanagement”）及其运营开发者（“我们”）非常重视用户（“您”）的隐私和个人信息保护。您在使用我们的产品与/或服务时，我们可能会收集和使用您的相关信息。我们希望通过《Tanagement隐私政策》（“隐私政策”）向您说明我们在您使用我们的产品与服务时如何收集、使用、保存、共享和转让这些信息，以及我们为您提供的访问、更新、删除和保护这些信息的方式。
+ 
+本政策将帮助您了解以下内容：
+1. 我们如何收集和使用您的个人信息
+2. 我们如何使用Cookies和同类技术
+3. 我们如何共享、转让、公开披露您的个人信息
+4. 我们如何保护和保存您的个人信息
+5. 您如何管理个人信息
+6. 未成年人信息的保护
+7. 我们如何处理儿童的个人信息
+8. 通知和修订
+9. 如何联系我们
+* 附录：第三方SDK合作伙伴与共享信息说明
+ 
+请您在使用我们的产品与服务前仔细阅读并确认您已经充分理解本政策的内容，您使用或在我们更新本隐私政策后继续使用我们的产品与服务，即视为您同意本隐私政策内容，并且同意我们按照本隐私政策收集、使用、保存和共享您的相关信息。
+
+如对本隐私政策有任何问题，您可随时通过我们的在线客服与我们联系 。
+ 
+## 1. 我们如何收集和使用您的个人信息
+个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。
+
+我们在提供产品和服务的过程中可能涉及的个人信息包括：
+* 基本信息（包括个人姓名、个人电话号码）；
+* 网络身份标识信息（包括系统账号、IP地址、邮箱地址及与前述有关的密码、口令、口令保护答案）；
+* 个人财产信息（交易和消费记录）；
+* 设备标识符（IMEI、IDFA、Android ID、MAC地址、OAID、IMSI、OpenUDID、GUID、SIM卡IMSI 信息、硬件序列号及其他设备相关信息）。
+
+个人敏感信息是指一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的个人信息，本隐私政策中涉及的个人敏感信息包括：
+* 网络身份识别信息（包括Tanagement账号）；
+* 其他信息（包括个人手机号码）。
+
+#### 我们基于以下目的收集和使用您的个人信息：
+（一） 您须授权我们收集和使用您个人信息的情形
+我们的产品与/或服务（包括Tanagement现有，以及未来开展的产品销售或服务。下称产品或服务）含有一些核心功能，这些功能包含了实现产品或服务所必须的功能、改进我们的产品与/或服务所必须的功能及保障交易安全所必须的功能。我们可能会收集、保存和使用下列与您有关的信息才能实现上述这些功能。如果您不提供相关信息，您将无法享受我们提供的产品与/或服务。
+
+这些功能包括：
+
+1、实现用户定制化服务所必须的功能
+
+（1）用户注册
+当您下载、注册、登录或向Tanagement及相关应用购买产品/服务时，向我们提供如下信息：电话号码、用户名、其他注册信息。我们可能使用您提供给我们的信息来联系您，不时地为您提供重要信息、必要的通知等。对于某些功能，如向我们注册账号属于非强制性质。
+
+（2）第三方服务
+为了使您的生活和旅行更加充实、便捷，我们的产品可能会集成第三方的SDK或其他类似的应用程序，这些公司会严格遵守我们的数据隐私和安全要求。除非得到您的同意，我们不会与其共享您的个人身份信息。为便于您更好地了解第三方SDK所采集的数据类型及用途，以及保护您的个人信息，您可以通过附件链接【第三方SDK合作伙伴与共享信息说明】了解到具体的权限及对应的隐私政策。我们理解并尊重您的选择权，如果您不愿参与大数据计算，您也可以通过第三方SDK合作伙伴与共享信息说明的链接指引行使opt-out（即用户退出并断开与第三方SDK合作伙伴的信息共享）的权利。
+
+（3）意见反馈
+当您使用的客户端软件频繁向我们进行报错或显示错误日志信息时，为了检查软件错误，给您提供更好的服务，我们会在您的设备上记录、收集您的配置信息、异常数据等用于诊断并完善产品及服务的文件。当您与Tanagement联系时，为了方便与您联系或帮助您解决问题，我们可能会记录您的联系方式、身份信息，并结合需要记录您的通话内容。
+
+2、改进我们的产品或服务所必须的功能
+
+我们可能会收集您的浏览信息、您的兴趣爱好（可选）进行数据分析以形成用户画像，以匹配您可能感兴趣的商品或服务以提高您的购买决策效率。我们还可能为了提供服务及改进服务质量的合理需要而获得您的其他信息，包括您与反馈人员联系时您提供的相关信息，您参与问卷调查时的答复信息，以及您与我们的合作伙伴互动时我们获得的相关信息。对于我们收集到的信息，我们可能会将它们进行关联，以便我们能为您提供更好的服务。
+
+3、保障交易安全所必须的功能
+为提高您使用我们的产品或服务时系统的安全性，预防不法分子利用钓鱼网站欺诈、黑客进攻、不法分子数据撞库等威胁您的账户及支付安全，我们可能会通过了解您的浏览信息、订单信息、您常用的软件信息、设备信息等手段来判断您所面临的风险，并可能会记录一些我们认为有风险的链接（“URL”）；我们也会收集您的设备信息进行分析、统计流量并排查可能存在的风险、在您选择向我们发送异常信息时予以排查。
+
+（二）您可选择是否授权我们收集和使用您的个人信息的情形
+
+1、为使您使用我们的产品或服务时更便捷或更有乐趣，从而提升您通过Tanagement产品或服务获得更好的体验，我们在技术能力具备的情况下会开放并供您选择性使用以下附加功能，这些附加功能的使用与否取决于您是否做出明示性的选择。在使用这些功能的过程中，我们可能会收集和使用您的个人信息。如果您不提供这些个人信息，您依然可以进行服务，只是您将无法因为使用这些附加功能而获得更多的便捷和乐趣：
+
+（1）位置信息访问权限：
+基于位置信息的通知提醒功能，我们会收集您的位置信息（我们仅收集您当时所处的地理位置来判断您所处的地点，并自动为您推荐您所在区域可能存在的提醒通知）；
+
+（2）相机访问权限：
+摄像头拍照功能，您可以使用这个附加功能完成视频拍摄、拍照、扫码的功能。应用场景包括：事件描述功能；
+
+（3）存储访问权限：
+访问本地已经拍摄好的照片，截图分享站内信息的时候保存截图文件。应用场景包括：事件描述功能；
+
+（4）麦克风访问权限：
+语音识别与处理功能，您可以使用麦克风来进行语音与我们客户端进行事件记录与描述；
+
+（5）应用内安装其它应用访问权限：
+通过获取软件安装列表，判断第三方应用是否安装。应用场景包括：信息分享（微信、微博等），支付服务（微信、支付宝等）；
+
+您开启这些权限即代表您授权我们可以收集和使用这些个人信息来实现上述的功能。您后续可关闭相关权限授权，我们将不再继续收集和使用您的这些个人信息，也无法为您提供上述与这些授权所对应的功能。您关闭权限的决定不会影响此前已经过您授权所进行的个人信息的处理。
+
+（三）在以下情况下，我们收集、使用个人信息无需征得您的授权同意：
+1. 与国家安全、国防安全有关的；
+2. 与公共安全、公共卫生、重大公共利益有关的；
+3. 与犯罪侦查、起诉、审判和判决执行等有关的；
+4. 出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
+5. 所收集的个人信息是个人信息主体自行向社会公众公开的；
+6. 从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道；
+7. 根据您的要求签订及履行合同所必需的；
+8. 用于维护所提供的产品与/或服务的安全稳定运行所必需的，例如发现、处置产品与/或服务的故障；
+9. 法律法规规定的其他情形。
+
+（四）我们从第三方获得您个人信息的情形
+
+我们可能从第三方获取您授权共享的账户信息（头像、昵称）如微信授权登录，并在您同意本隐私政策后将您的第三方账户与您的Tanagement账户绑定，使您可以通过第三方账户登录并使用我们的产品与服务。我们会将依据与第三方的约定、对个人信息来源的合法性进行确认后，在符合相关法律和法规规定的前提下，使用您的这些个人信息。
+
+（五）您个人信息使用的规则
+1. 我们会严格依据本隐私政策的约定对所收集的个人信息进行使用。
+2. 在收集您的个人信息后，我们将通过技术手段对数据进行去标识化处理，去标识化处理的信息将无法识别主体。我们有权对用户数据库进行分析并予以商业化的利用。
+3. 您在使用我们的产品与/或服务时所提供的所有个人信息，除非您删除、通过系统设置拒绝我们收集、因系统设置了特定的有效期限且已到达期限，否则将在您使用我们的产品和服务期间持续授权我们使用。
+4. 我们会对我们的产品与/或服务使用情况进行统计，并可能会与公众或第三方共享这些统计信息，以展示我们的产品与/或服务的整体使用趋势。但这些统计信息不包含您的任何身份识别信息。
+5. 当我们要将您的个人信息用于超出本政策约定用途时，我们会另行征求您的同意。
+ 
+二、我们如何使用Cookies和同类技术
+
+（一）Cookies的使用
+
+1、为向您提供更便捷的用户体验，简化您重复登录的步骤、存储您的偏好等数据进而为您提供的偏好设置、优化对广告的选择与互动、判断您的登录状态以及账户或数据安全，我们会在您的计算机或移动设备上发送一个或多个名为Cookies的小数据文件。
+
+2、我们不会将Cookies用于本隐私政策所述目的之外的任何用途。您可根据自己的偏好管理或删除 Cookies。您可以清除计算机上保存的所有 Cookies，大部分网络浏览器会自动接受Cookies，但您通常可根据自己的需要来修改浏览器的设置以拒绝 Cookies；另外，您也可以清除软件内保存的所有Cookies。但清除后，您可能需要在每一次访问Tanagement隐私政策网站时亲自更改用户设置，而且您之前所记录的相应信息也均会被删除，并且可能会对您所使用服务的安全性有一定影响。
+
+（二）网络Beacon和同类技术的使用
+
+除Cookies外，我们还会在网站上使用网络Beacon等其他同类技术。我们的网页上常会包含一些电子图像（称为“单像素”GIF文件或“网络Beacon”）。我们使用网络Beacon的方式有：
+1. 通过在网站上使用网络Beacon，计算用户访问数量，并通过访问Cookies 辨认注册的用户。 
+2. 通过得到的Cookies信息，为您提供个性化服务。
+ 
+三、我们如何共享、转让、公开披露您的个人信息
+
+（一）共享
+
+1、原则上，我们不会与任何公司、组织和个人共享您的个人信息，但以下情况除外：
+   1. 事先获得您明确的同意或授权；
+   2. 根据适用的法律法规、法律程序的要求、强制性的行政或司法要求所必须的情况下进行提供；
+   3. 在法律法规允许的范围内，为维护我们、我们的关联方或合作伙伴、您或其他用户或社会公众利益、财产或安全免遭损害，合理维权而有必要提供；
+   4. 只有共享您的信息，才能实现我们的产品与/或服务的核心功能或提供您需要的服务；
+   5. 应您需求为您处理您与他人的纠纷或争议；
+   6. 符合与您签署的相关协议（包括在线签署的电子协议以及相应的平台规则）或其他的法律文件约定所提供；
+   7. 基于学术研究而使用；
+   8. 基于符合法律法规、社会公共利益而使用。
+
+2、我们可能会将您的个人信息与我们的关联方共享。但我们只会共享必要的个人信息，且受本隐私政策中所声明目的的约束。我们的关联方如要改变个人信息的处理目的，将再次征求您的授权同意。
+
+3、我们会基于为您提供服务目的而向合作伙伴等第三方共享您的订单信息、账户信息等，但我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供服务所必要的个人信息。我们的合作伙伴无权将共享的个人信息用于任何其他用途。我们的合作伙伴包括以下类型：
+
+（1）商品或技术服务的供应商。我们可能会将您的个人信息共享给支持我们功能的第三方。这些支持包括为我们的供货服务、物流配送服务、支付服务、数据处理等。我们共享这些信息的目的是可以实现我们产品或服务的核心功能，比如我们必须与服务提供商共享您的订单信息才能安排处理；或者我们需要将您的订单号和订单金额与第三方支付机构共享以实现其确认您的支付指令并完成支付等。
+
+（2）委托我们进行推广的合作伙伴。有时我们会代表其他企业向使用我们产品与/或服务的用户群提供促销推广的服务。我们可能会使用您的个人信息以及您的非个人信息集合形成的间接用户画像与委托我们进行推广的合作伙伴（“委托方”）共享，但我们会进行相应的匿名处理，以便它不会识别您个人。
+
+4、对我们与之共享个人信息的公司、组织和个人，其依法应当对您的个人信息予以保护。我们会与其签署严格的保密协定，要求他们按照我们的说明、本隐私政策以及其他任何相关的保密和安全措施来处理个人信息。
+
+（二）转让
+
+我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：
+1. 事先获得您明确的同意或授权；
+2. 根据适用的法律法规、法律程序的要求、强制性的行政或司法要求所必须的情况进行提供；
+3. 符合与您签署的相关协议（包括在线签署的电子协议以及相应的平台规则）或其他的法律文件约定所提供；
+4. 在涉及合并、收购、资产转让或类似的交易时，如涉及到个人信息转让，我们会要求新的持有您个人信息的公司、组织继续受本隐私政策的约束，否则,我们将要求该公司、组织重新向您征求授权同意。
+
+（三）公开披露
+
+我们仅会在以下情况下，且采取符合业界标准的安全防护措施的前提下，才会公开披露您的个人信息：
+1. 根据您的需求，在您明确同意的披露方式下披露您所指定的个人信息；
+2. 根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您个人信息的情况下，我们可能会依据所要求的个人信息类型和披露方式公开披露您的个人信息。我们会对所有的请求都进行慎重审查，以确保其合法有据。
+ 
+四、我们如何保护和保存您的个人信息
+
+（一）我们保护您个人信息的技术与措施
+
+我们非常重视个人信息安全，并采取一切合理可行的措施，保护您的个人信息：
+
+1、数据安全技术措施
+
+* 我们会采用符合业界标准的安全防护措施，包括建立合理的安全技术，如加密技术来收集、存储，防止您的个人信息遭到未经授权的访问使用、修改,避免数据的损坏或丢失；我们建立健全相应的制度流程规范以确保您的个人信息安全。
+
+* 我们采用严格的数据访问权限控制和多重身份认证技术保护个人信息，避免数据被违规使用。
+
+* 我们采用代码安全自动检查、数据访问日志记录与分析技术进行个人信息安全审计。
+
+2、人员意识教育
+
+我们致力于加强安全意识，举办安全和隐私保护培训课程，加强员工对于保护个人信息重要性的认识。
+
+3、数据接触控制
+
+我们仅允许有必要知晓这些信息的员工、合作伙伴访问个人信息，并为此设置了严格的访问权限控制和监控机制。我们同时要求可能接触到您个人信息的所有人员履行相应的保密义务。如果未能履行这些义务，可能会被追究法律责任或被终止与我们的合作关系。
+
+4、数据事件应急处理
+
+为应对个人信息泄露、损毁和丢失等可能出现的风险，我们建立了专门的应急响应团队，按照安全事件处置规范要求，针对不同安全事件启动安全预案，进行止损、分析、定位、制定补救措施。
+在发生个人信息安全事件后，我们将按照法律法规的要求，及时向您告知安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们将通过站内信、邮件、电话、短信等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。
+
+互联网环境并非百分之百安全，我们将尽力对您发送给我们的任何信息进行安全保护。如果因我们的过错，导致在物理、技术、或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改、或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。
+如果您对我们的个人信息保护有任何疑问，可联系我们的开发者予以反馈。如您发现自己的个人信息泄密，尤其是您的账户及密码发生泄露，请您立即与我们联系以便我们采取相应措施。
+
+（二）您个人信息的保存
+
+1、存储地域
+
+我们在中华人民共和国境内运营中收集和产生的个人信息，将存储在中国境内。以下情形下，我们会在履行法律规定的义务后，向可能的境外实体提供您的个人信息：
+
+（1）适用的法律有明确规定；
+
+（2）获得您的单独同意。
+
+针对以上情形，我们会按照本政策依法保护您的个人信息安全。
+
+2、除非法律法规另有规定，Tanagement将按如下期限保存您的信息：
+
+（1）您使用Tanagement产品或服务期间，我们将持续为您保存，除非您自主删除这些信息或者注销帐户。
+
+（2）当您删除个人信息或注销帐户后，我们将及时采取措施将您的个人信息从业务功能系统删除，使其保持不可被检索、访问的状态。
+
+（3）为了维护您和Tanagement的合法权益，我们有权在您删除或注销帐户之日起36个月内继续在单独的系统中保存您的信息用于证据保存。证据保存期限到期后，我们将及时对该等保存的个人信息进行匿名化处理。如您在注销账号或删除信息时，愿意放弃对Tanagement与删除信息相关的全部法律救济权利，Tanagement将依据网络安全法和其他法律法规规定在您删除信息后的法定期限（例如，《网络安全法》要求网络日志留存不少于六个月，《电子商务法》要求商品和服务信息、交易信息保存时间自交易完成之日起不少于三年）到期后删除相关数据。
+
+3、当我们需要终止服务或运营，我们会提前十五个工作日通知您，并在终止服务或运营后对您的个人信息进行删除或匿名化处理。
+
+五、您如何管理您的个人信息
+
+我们非常重视您对个人信息的关注，并尽全力保护您对于您个人信息访问、更正、删除等权利，以使您拥有充分的能力保障您的隐私和安全。您的权利包括：
+
+（一）访问和更正您的个人信息
+
+除法律法规规定外，您有权随时访问和更正您的个人信息，具体包括：
+1. 您的账户信息：可以在Tanagement首页页面的“我的---账户设置”中查阅您提交给我们的基本个人信息。
+2. 您的订单信息：您可以通过访问“我的订单”页面查看，或联系我们的客服了解您的已经完成、待评价、待退款的订单。您可以选择删除订单来删除您的订单信息，但这样可能导致我们无法准确判断您的购买信息而难以提供相应的售后服务。
+3. 对于您在使用我们的产品与/或服务过程中产生的其他个人信息需要访问或更正，请随时联系我们。我们会根据本隐私政策所列明的方式和期限响应您的请求。
+4. 您无法访问和更正的个人信息：除上述列明可查询及修改的信息外，您的部分个人信息暂无法为您提供访问和更正的服务，这些信息主要是为了提升您的用户体验和保证交易安全所收集的您的设备信息。上述信息我们会在您的授权范围内进行使用，您可联系我们进行删除或做匿名化处理。
+
+（二）删除您的个人信息
+
+您可以直接联系我们清除或删除您的个人信息。
+
+在以下情形中，您可以向我们提出删除个人信息的请求：
+1. 如果我们处理个人信息的行为违反法律法规；
+2. 如果我们收集、使用您的个人信息，却未征得您的同意；
+3. 如果我们处理个人信息的行为违反了与您的约定；
+4. 如果我们终止服务及运营。
+
+若我们决定响应您的删除请求，我们还将同时通知从我们获得您的个人信息的实体，要求其及时删除，除非法律法规另有规定，或这些实体另行获得您的独立授权。当您从我们的服务中删除信息后，我们可能不会立即从备份系统中删除相应的信息，但会在备份更新时删除这些信息。
+
+（三）改变授权范围
+
+您可以通过以下方式改变或者撤回您授权我们收集和处理您的个人信息的范围：
+1. 通过您所使用的设备系统权限管理页面管理您所使用的系统权限授权。
+2. 通过修改个人资料、删除个人信息、关闭功能等方式撤销授权。
+
+对于您无法直接通过上述方式改变授权，您可以联系客服进行修改，但请注意，对于部分类型的个人信息，如是Tanagement基本功能所必须的信息或者我们履行法律法规规定的义务所必需的信息，我们可能无法响应您改变授权范围的请求。当您撤回授权后，我们将不再处理相应的个人信息。但您撤回授权的决定，不会影响我们此前基于您的授权而开展的个人信息处理。
+
+（四）注销账户
+
+1、您可以通过联系我们的开发者申请注销账户（邮箱地址：developer@tanagement.com）。注销Tanagement账户后，您该账户内的所有信息将被清空或匿名化，我们将不会再收集、使用或共享与该账户相关的个人信息。
+
+2、您注销账户后，我们将停止为您提供产品与/或服务，并依据您的要求，除法律法规另有规定外，我们将删除您的个人信息或匿名化处理，并不再进行任何技术利用。
+
+3、注销Tanagement账户，视为您放弃以下权益：
+
+（1）账户信息、订单信息、会员权益、虚拟资产；
+
+（2）利用会员卡号、验证手机或邮箱登陆Tanagement；
+
+（3）解除与第三方授权或绑定关系。
+
+您理解并同意，我们将及时通知授权或绑定关系的第三方，删除您的有关信息，但无法监控第三方的执行。同样的，我们无法协助您重新恢复前述服务，您注销账户的行为会给您的售后维权带来诸多不便，请您在操作之前，确保您的账户无任何纠纷，并自行备份账户相关的所有信息和数据，下载并保存好订单商品和服务的交易凭证、票据（如电子发票）等资料。
+
+（五）拒绝推送
+
+如果您不想接受我们给您发送的促销信息，您可以随时回复“TD”来取消我们给您发送的手机促销短信。
+
+您在行使相关权利时遇到问题或有任何意见建议，您均可以通过我们的在线客服与我们联系。为了保障安全，我们可能需要您提供书面请求，或以其他方式证明您的身份，我们将在收到您反馈并验证您的身份后的十五个工作日内答复您的请求。对于您合理的请求，我们原则上不收取费用，但对多次重复、超出合理限度的请求，我们将视情收取一定成本费用。对于那些无端重复、需要过多技术手段（例如，需要开发新系统或从根本上改变现行惯例）、给他人合法权益带来风险或者非常不切实际（例如，涉及备份磁带上存放的信息）的请求，我们可能会予以拒绝。
+
+在以下情形中，按照法律法规要求，我们将无法响应您的请求：
+1. 与国家安全、国防安全有关的，可能造成相应损害的；
+2. 与公共安全、公共卫生、重大公共利益有关的，可能造成相应损害的；
+3. 与犯罪侦查、起诉和审判等有关的，可能损害相关利益的；
+4. 有充分证据表明您存在主观恶意或滥用权利的；
+5. 响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的。
+ 
+六、关于未成年人的个人信息保护安排
+1. 对于监护人同意而收集未成年人个人信息的情况，我们在在法律法规允许、监护人明确同意或者保护未成年人所必要的情况下使用或公开披露此信息。
+2. 如果我们发现自己在未事先获得监护人同意的情况下收集了未成年人的个人信息，则会设法尽快删除相关数据且不做任何其他安排。
+ 
+七、我们如何处理儿童的个人信息
+对于经父母同意而收集儿童个人信息的情况，我们只会在受到法律允许、父母或监护人明确同意或者保护儿童所必要的情况下使用或公开披露此信息。尽管当地法律和习俗对儿童的定义不同，但我们将不满14周岁的任何人均视为儿童。如果我们发现自己在未事先获得可证实的父母同意的情况下收集了儿童的个人信息，则会设法尽快删除相关数据。
+
+八、通知和修订
+1. 基于国家法律法规的变化，以及为持续优化我们的服务，本隐私政策也会随之更新。但我们不会主动削减您依据本隐私政策所应享有的权利。我们会通过网站、移动端上发出更新版本，也请您经常回访本隐私政策，以便及时了解最新版本。
+2. 对于服务模式发生重大变化、所有者变更等重大变更，我们还会提供更为显著的通知。
+
+九、如何联系我们
+
+（一）客服渠道
+如果您对本隐私政策有任何疑问、意见或建议，或您在使用Tanagement产品或服务时，就您的个人信息的收集、使用、共享、查询、删除、更正等相关事宜有任何意见或建议，或您在使用产品或服务时遇到哪些问题，您都可以通过发送邮件到feedback@tanagement.com 或 developer@tanagement.com与我们联系。
+
+（二）特别提示
+1. Tanagement提醒您，如您反馈的问题涉及您的个人信息，尤其是您的敏感信息，请您不要直接在邮件中进行透露，我们将会在确保您个人信息安全的情况下与您进一步沟通。
+2. 部分情况下，为保障您个人信息的安全，我们可能需要您提供书面请求，或以其他方式证明您的身份。我们将在收到您的反馈并验证您的身份后15日内答复您的相关请求。
 
 <br>
+ 
+## 第三方SDK合作伙伴与共享信息说明
+为保障App的稳定运行或实现相关功能，我们会接入由第三方提供的软件开发包（SDK）实现前述目的。我们会尽到审慎义务，对合作方获取信息的软件工具开发包（SDK）进行严格的安全监测，以保护数据安全。
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+我们接入的第三方SDK主要服务于您以及其他的用户的需求，因此在满足新的服务需求及业务功能变更时，我们可能会调整我们接入的第三方SDK。我们会及时在本说明中向您公开说明接入第三方SDK的最新情况。目前接入的第三方SDK列明如下：
+ 
+本页面出现的名词如下解释：
+1、唯一设备识别码：IMEI/ANDROID ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息。
+2、位置信息：是指访问精确地理位置信息和访问大致地理位置信息。
+3、网络信息：IP地址，WiFi信息，基站信息等相关信息。
+4、设备信息：设备型号、终端制造厂商、终端设备操作系统版本、语言所在地、时区。
+5、应用信息：应用崩溃信息、通知开关状态、软件列表等相关信息。
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+友盟移动统计SDK
+使用目的：进行用户数据统计、信息分享及信息推送、通过地理位置校准报表数据准确性，提供基础反作弊能力
+数据类型：设备信息、应用版本、 软件列表、唯一设备识别码、Mac地址、网络信息、位置信息、其他设备物理环境信息
+隐私协议：https://www.umeng.com/policy
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+腾讯Bugly SDK
+使用目的：用于检测应用稳定性并进行故障诊断、崩溃上报，以便帮助用户快速解决异常
+数据类型：设备信息、应用版本、软件列表、唯一设备识别码、Mac地址、网络信息、读取系统设置及其他设备物理环境信息
+隐私协议：https://privacy.qq.com/document/priview/fbd2c3f898df4c1c869925dd49d57827
 
-<br>
+头条穿山甲SDK
+使用目的：用于用户在产品内浏览广告
+数据类型：设备信息、软件列表、唯一设备识别码、Mac地址、Mac地址、网络信息、读取系统设置及其他设备物理环境信息
+隐私协议：https://www.pangle.cn/privacy
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+腾讯优量汇SDK
+使用目的：用于用户在产品内浏览广告
+数据类型：设备信息、软件列表、唯一设备识别码、Mac地址、网络信息、位置信息、软件列表及其他设备物理环境信息
+隐私协议：https://imgcache.qq.com/gdt/cdn/adn/uniondoc/ylh_sdk_privacy_statement.html
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+微信 SDK
+使用目的：帮助用户用微信账号进行登录，支持用户分享内容到微信平台，帮助用户在产品内使用微信支付
+数据类型：设备信息、唯一设备识别码、Mac地址、网络信息
+隐私协议：https://privacy.qq.com/
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+支付宝SDK
+使用目的：支付服务
+数据类型：设备信息、唯一设备识别码、Mac地址、位置信息、运营商信息、Wi-Fi地址、应用安装列表
+隐私协议：https://render.alipay.com/p/c/k2cx0tg8
 
-<br>
+银联SDK
+使用目的：支付服务
+数据类型：设备信息、唯一设备识别码、Mac地址、位置信息、运营商信息、网络信息、应用安装列表
+隐私协议：https://user.95516.com/pages/misc/newAgree.html
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+QQ SDK
+使用目的：支持用户分享内容到QQ平台
+数据类型：设备信息、唯一设备识别码、Mac地址、网络信息
+隐私协议：https://wiki.connect.qq.com/qq%e4%ba%92%e8%81%94sdk%e9%9a%90%e7%a7%81%e4%bf%9d%e6%8a%a4%e5%a3%b0%e6%98%8e
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+微博 SDK
+使用目的：支持用户分享内容到微博平台
+数据类型：设备信息、唯一设备识别码、网络信息
+隐私协议：https://www.weibo.com/signup/v5/privacy
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+极光推送Jpush SDK
+使用目的：通过识别设备信息为App赋予推送能力，用于消息推送；地理位置和网络信息用于创建智能标签，实现区域、分群推送功能
+数据类型：唯一设备识别码、设备信息、地理位置、网络信息
+隐私协议：https://www.jiguang.cn/license/privacy
 
-<br>
+腾讯短视频SDK
+使用目的：短视频播放和制作
+数据类型：设备信息、唯一设备识别码、位置信息、网络信息
+隐私协议：https://privacy.qq.com/
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+阿里云SDK
+使用目的：数据统计
+数据类型：设备信息、唯一设备识别码、位置信息、运营商信息
+隐私协议：http://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html?spm=a2c4g.11174283.J_9220772140.88.19a2cebaaE1ZBf
 
-<br>
+淘宝SDK
+使用目的：网络调度服务
+数据类型：设备信息、唯一设备识别码、位置信息、运营商信息
+隐私协议：https://terms.alicdn.com/legal-agreement/terms/suit_bu1_taobao/suit_bu1_taobao201703241622_61002.html
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+腾讯开放云SDK
+使用目的：数据存储服务
+数据类型：设备信息、唯一设备识别码、位置信息、运营商信息
+隐私协议：https://cloud.tencent.com/document/product/301/11470
+
+站长统计SDK
+使用目的：数据统计
+数据类型：设备信息
+隐私协议：https://www.umeng.com/policy
